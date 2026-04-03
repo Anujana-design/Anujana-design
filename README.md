@@ -24,14 +24,14 @@ I have worked on projects, including a full-stack e-commerce website, and gained
 
 ## 😄 A Bit About Me
 
-- Passionate about problem-solving and cybersecurity challenges  
-- Enjoy working in collaborative team environments  
-- Interested in graphic design, animation, and videography  
-- Music enthusiast 🎵  
+- 🔐 Passionate about problem-solving and cybersecurity challenges  
+- 🤝 Enjoy working in collaborative team environments  
+- 🎨 Interested in graphic design, animation, and videography  
+- 🎵 Music enthusiast
 
 ---
 
-> "Learn something new every day."
+> "Learn something new every day. ✨"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anujana-design)
 
