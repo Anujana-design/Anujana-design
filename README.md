@@ -33,8 +33,8 @@ I have worked on projects, including a full-stack e-commerce website, and gained
 
 > "Learn something new every day."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Anujana-design)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujana-design&show_icons=true)
 
 <!--
 **Anujana-design/Anujana-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
