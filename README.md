@@ -1,6 +1,5 @@
 ## Hey there, I'm Amalmee Anujana 👋
 
-
 🎓 I'm a cybersecurity undergraduate student pursuing my bachelor's degree at NSBM, affiliated with Victoria University, Australia. 
 
 💻 I have developed a foundation in programming, networking and cybersecurity principles, worked on various projects including a full-stack e-commerce website, and have polished my skills in networking device management and penetration testing.
