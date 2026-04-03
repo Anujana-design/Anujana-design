@@ -1,30 +1,40 @@
 ## Hey there, I'm Amalmee Anujana 👋
-🎓 I'm a cybersecurity undergraduate student pursuing my bachelor's degree at Victoria University. 
 
-💻 I have developed a foundation in programming, networking and cybersecurity principles, worked on various projects including a full-stack e-commerce website, and have polished my skills in networking device management and penetration testing.
+🎓 Cybersecurity undergraduate at Victoria University  
 
-🔭 I’m currently working on developing an Ad blocker, a Google extension, with my friends for a group project.
+💻 I have a foundation in programming, networking, and cybersecurity principles.  
+I have worked on projects, including a full-stack e-commerce website, and gained hands-on experience in managing networking devices and performing basic penetration testing.
+
+🔭 Currently working on developing an ad blocker (Google Chrome extension) as a group project.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Cybersecurity:** Ethical hacking (Basics), Network security principles
-- **Languages:** Java, JavaScript, C, Python, SQL, HTML, CSS
-- **Database:** MySQL
-- **Networking:** TCP/IP, Firewalls, VPNs
-- **Servers/Environments:** Metasploitable
-- **Tools/Security:** Wireshark, Nmap, Autopsy
-- **Operating Systems:** Windows, Kali Linux
-- **IDES:** Code::Blocks, NetBeans, VS Code
+
+- **Cybersecurity:** Ethical Hacking (Basics), Network Security Principles  
+- **Languages:** Java, JavaScript, C, Python, SQL, HTML, CSS  
+- **Database:** MySQL  
+- **Networking:** TCP/IP, Firewalls, VPNs  
+- **Systems/Environments:** Metasploitable  
+- **Tools:** Wireshark, Nmap, Autopsy  
+- **Operating Systems:** Windows, Kali Linux  
+- **IDEs:** Code::Blocks, NetBeans, VS Code  
 
 ---
 
-## 😄 A bit about me
-- Interested in problem-solving, discussing cybersecurity challenges, and working well in collaborative environments.
-- Apart from cybersecurity, I'm passionate about graphic design, animations, and videography.
-- Music enthusiast.
+## 😄 A Bit About Me
 
-> Learn something new every day!
+- Passionate about problem-solving and cybersecurity challenges  
+- Enjoy working in collaborative team environments  
+- Interested in graphic design, animation, and videography  
+- Music enthusiast 🎵  
+
+---
+
+> "Learn something new every day."
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
 
 <!--
 **Anujana-design/Anujana-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
