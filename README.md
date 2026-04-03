@@ -10,15 +10,8 @@
 
 ## 🛠️ Technical Skills
 
--**•	Cybersecurity:** Ethical hacking (Basics), Network security principles
--**•	Languages:** Java, JavaScript, C, Python, SQL
--**•	UI Technologies:** HTML
--**•	Database:** MySQL
--**•	Networking:** TCP/IP, Firewalls, VPNs
--**•	Servers/Environments:** Metasploitable
--**•	Tools/Security:** Wireshark, Nmap, Autopsy
--**•	Operating Systems:** Windows, Kali Linux
--**•	IDES:** Code::Blocks, NetBeans, VS Code
+**•	Cybersecurity:** Ethical hacking (Basics), Network security principles
+- hello
 
 <!--
 **Anujana-design/Anujana-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
