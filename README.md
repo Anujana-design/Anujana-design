@@ -1,8 +1,12 @@
 ## Hey there, I'm Amalmee Anujana 👋
 
-🎓 I'm a cybersecurity undergraduate student pursuing my bachelor's degree at NSBM, affiliated with Victoria University, Australia. Throughout my studies, I have developed a foundation in programming, networking and cybersecurity principles. I have worked on various projects, including a full-stack e-commerce website, and have polished my skills in networking device management and penetration testing.
+🎓 I'm a cybersecurity undergraduate student pursuing my bachelor's degree at NSBM, affiliated with Victoria University, Australia. 
+
+💻 I have developed a foundation in programming, networking and cybersecurity principles, worked on various projects including a full-stack e-commerce website, and have polished my skills in networking device management and penetration testing.
 
 🔭 I’m currently working on developing an Ad blocker, a Google extension, with my friends for a group project.
+
+---
 <!--
 **Anujana-design/Anujana-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
