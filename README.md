@@ -20,9 +20,11 @@
 ---
 
 ## 😄 A bit about me
-Interested in problem-solving, discussing cybersecurity challenges, and working well in collaborative environments.
+- Interested in problem-solving, discussing cybersecurity challenges, and working well in collaborative environments.
+- Apart from cybersecurity, I'm passionate about graphic design, animations, and videography.
+- Music enthusiast.
 
-Apart from cybersecurity, I'm passionate about graphic design, animations, and videography.
+> Learn something new every day!
 
 <!--
 **Anujana-design/Anujana-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
