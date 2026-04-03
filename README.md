@@ -22,7 +22,7 @@ I have worked on projects, including a full-stack e-commerce website, and gained
 
 ---
 
-## 😄 A Bit About Me
+## A Bit About Me 😄
 
 - 🔐 Passionate about problem-solving and cybersecurity challenges  
 - 🤝 Enjoy working in collaborative team environments  
