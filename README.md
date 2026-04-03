@@ -21,6 +21,7 @@
 
 ## 😄 A bit about me
 Interested in problem-solving, discussing cybersecurity challenges, and working well in collaborative environments.
+
 Apart from cybersecurity, I'm passionate about graphic design, animations, and videography.
 
 <!--
